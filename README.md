@@ -1,4 +1,8 @@
-business-days-bucuresti-2013-12
-===============================
+Managementul de proiect și tehnologia
+====================================
 
-Slides for "Managementul de proiect și tehnologia" presentation at Business Days Bucharest
+Prezentarea pentru Business Days 2013, cu studiu de caz Read Forward.
+
+Autor - [Cristian Dinu](http://cristiandinu.info)
+
+Realizată cu [remark.js](http://gnab.github.io/remark/)
